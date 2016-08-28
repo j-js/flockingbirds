@@ -1,0 +1,200 @@
+continents,id,O_1
+Africa,Algeria,0
+Africa,Angola,3
+Africa,Benin,0
+Africa,Botswana,0
+Africa,Burkina Faso,1
+Africa,Burundi,0
+Africa,Cameroon,1
+Africa,Cape Verde,1
+Africa,Central African Republic,0
+Africa,Chad,0
+Africa,Comoros,0
+Africa,Congo  (Kinshasa),0
+Africa,Congo (Brazzaville),0
+Africa,Cote d'Ivoire,1
+Africa,Djibouti,0
+Africa,Egypt,18
+Africa,Equatorial Guinea,0
+Africa,Eritrea,0
+Africa,Ethiopia,4
+Africa,Gabon,1
+Africa,Gambia,0
+Africa,Ghana,4
+Africa,Guinea,0
+Africa,Guinea-Bissau,0
+Africa,Kenya,6
+Africa,Lesotho,0
+Africa,Liberia,1
+Africa,Libya,0
+Africa,Madagascar,1
+Africa,Malawi,0
+Africa,Mali,4
+Africa,Mauritania,0
+Africa,Mauritius,2
+Africa,Morocco,6
+Africa,Mozambique,2
+Africa,Namibia,1
+Africa,Niger,1
+Africa,Nigeria,10
+Africa,Rwanda,0
+Africa,Sao Tome and Principe,0
+Africa,Senegal,2
+Africa,Seychelles,0
+Africa,Sierra Leone,1
+Africa,Somalia,0
+Africa,South Africa,88
+Africa,South Sudan,0
+Africa,Sudan,1
+Africa,Swaziland,0
+Africa,Tanzania,1
+Africa,Togo,0
+Africa,Tunisia,0
+Africa,Uganda,2
+Africa,Zambia,0
+Africa,Zimbabwe,3
+Asia,Afghanistan,0
+Asia,Bahrain,0
+Asia,Bangladesh,1
+Asia,Bhutan,0
+Asia,Brunei,0
+Asia,Burma,2
+Asia,Cambodia,1
+Asia,China,188
+Asia,Taiwan,64
+Asia,Hong Kong,30
+Asia,India,167
+Asia,Indonesia,16
+Asia,Iran,7
+Asia,Iraq,0
+Asia,Israel,235
+Asia,Japan,535
+Asia,Jordan,6
+Asia,North Korea,0
+Asia,South Korea,293
+Asia,Kuwait,1
+Asia,Laos,0
+Asia,Lebanon,14
+Asia,Macau,1
+Asia,Malaysia,18
+Asia,Maldives,1
+Asia,Mongolia,2
+Asia,Nepal,4
+Asia,Oman,0
+Asia,Pakistan,7
+Asia,Palestinian Authority Travel Document,2
+Asia,Philippines,56
+Asia,Qatar,0
+Asia,Saudi Arabia,3
+Asia,Singapore,19
+Asia,Sri Lanka,1
+Asia,Syria,2
+Asia,Thailand,22
+Asia,Timor-Leste,0
+Asia,United Arab Emirates,0
+Asia,Vietnam,4
+Asia,Yemen,1
+Europe,Albania,3
+Europe,Andorra,1
+Europe,Armenia,19
+Europe,Austria,83
+Europe,Azerbaijan,2
+Europe,Belarus,10
+Europe,Belgium,95
+Europe,Bosnia and Herzegovina,4
+Europe,Bulgaria,35
+Europe,Croatia,22
+Europe,Cyprus,11
+Europe,Czech Republic,39
+Europe,Denmark,167
+Europe,Estonia,22
+Europe,Finland,67
+Europe,France,591
+Europe,Georgia,15
+Europe,Germany,576
+Europe,Great Britain and Northern Ireland,2212
+Europe,Greece,93
+Europe,Hungary,50
+Europe,Iceland,25
+Europe,Ireland,153
+Europe,Italy,510
+Europe,Kazakhstan,7
+Europe,Kosovo,0
+Europe,Kyrgyzstan,7
+Europe,Latvia,29
+Europe,Liechtenstein,0
+Europe,Lithuania,22
+Europe,Luxembourg,5
+Europe,Macedonia,9
+Europe,Malta,2
+Europe,Moldova,4
+Europe,Monaco,2
+Europe,Montenegro,4
+Europe,Netherlands,226
+Europe,Norway,79
+Europe,Poland,78
+Europe,Portugal,50
+Europe,Romania,47
+Europe,Russia,227
+Europe,San Marino,0
+Europe,Serbia  ,42
+Europe,Serbia and Montenegro,0
+Europe,Slovakia,25
+Europe,Slovenia,17
+Europe,Spain,281
+Europe,Sweden,227
+Europe,Switzerland,99
+Europe,Tajikistan,0
+Europe,Turkey,54
+Europe,Turkmenistan,0
+Europe,Ukraine,51
+Europe,Uzbekistan,9
+Europe,Vatican City,0
+NorthAmerica,Antigua and Barbuda,0
+NorthAmerica,"Bahamas, The",6
+NorthAmerica,Barbados,5
+NorthAmerica,Belize,1
+NorthAmerica,Canada,18
+NorthAmerica,Costa Rica,13
+NorthAmerica,Cuba,9
+NorthAmerica,Dominica,9
+NorthAmerica,Dominican Republic,25
+NorthAmerica,El Salvador,2
+NorthAmerica,Grenada,1
+NorthAmerica,Guatemala,13
+NorthAmerica,Haiti,4
+NorthAmerica,Honduras,1
+NorthAmerica,Jamaica,34
+NorthAmerica,Mexico,350
+NorthAmerica,Nicaragua,1
+NorthAmerica,Panama,2
+NorthAmerica,Saint Kitts and Nevis,0
+NorthAmerica,Saint Lucia,0
+NorthAmerica,Saint Vincent and the Grenadines,1
+NorthAmerica,Trinidad and Tobago,14
+Oceania,Australia,596
+Oceania,Fiji,1
+Oceania,Kiribati,0
+Oceania,Marshall Islands,0
+Oceania,Micronesia,0
+Oceania,Nauru,0
+Oceania,New Zealand,126
+Oceania,Palau,0
+Oceania,Papua New Guinea,0
+Oceania,Samoa,0
+Oceania,Solomon Islands,0
+Oceania,Tonga,1
+Oceania,Tuvalu,0
+Oceania,Vanuatu,0
+SouthAmerica,Argentina,168
+SouthAmerica,Bolivia,4
+SouthAmerica,Brazil,564
+SouthAmerica,Chile,45
+SouthAmerica,Colombia,110
+SouthAmerica,Ecuador,18
+SouthAmerica,Guyana,0
+SouthAmerica,Paraguay,4
+SouthAmerica,Peru,29
+SouthAmerica,Suriname,0
+SouthAmerica,Uruguay,20
+SouthAmerica,Venezuela,117

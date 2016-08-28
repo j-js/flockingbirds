@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Bubble Chart </title>
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <!-- <canvas width="940" height="600"></canvas> -->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bubble_chart.css">
+
+  <!-- <script src="https://d3js.org/d3.v4.js"></script> -->
+<!-- <script src="src/bubble_chart_new.js"></script> -->
+</head>
+<body>
+	
+		<div class="container">
+			<div id="years">
+				<a href="#" id="1997" class="Ybutton active">1997</a>
+				<a href="#" id="1998" class="Ybutton">1998</a>
+				<a href="#" id="1999" class="Ybutton">1999</a>
+				<a href="#" id="2000" class="Ybutton">2000</a>
+				<a href="#" id="2001" class="Ybutton">2001</a>
+				<a href="#" id="2002" class="Ybutton">2002</a>
+				<a href="#" id="2003" class="Ybutton">2003</a>
+				<a href="#" id="2004" class="Ybutton">2004</a>
+				<a href="#" id="2005" class="Ybutton">2005</a>
+				<a href="#" id="2006" class="Ybutton">2006</a>
+				<a href="#" id="2007" class="Ybutton">2007</a>
+				<a href="#" id="2008" class="Ybutton">2008</a>
+				<a href="#" id="2009" class="Ybutton">2009</a>
+				<a href="#" id="2010" class="Ybutton">2010</a>
+				<a href="#" id="2011" class="Ybutton">2011</a>
+				<a href="#" id="2012" class="Ybutton">2012</a>
+				<a href="#" id="2013" class="Ybutton">2013</a>
+				<a href="#" id="2014" class="Ybutton">2014</a>
+				<a href="#" id="2015" class="Ybutton">2015</a>
+			</div>
+			<h1>people that got an O-1 visa in <span id="yearClicked">1997</span></h1>
+			
+			<div id="toolbar">				
+				<a href="#" id="all" class="button active">countires</a>
+				<a href="#" id="continents" class="button">Continents</a>
+	    	</div>
+   
+    		<div id="vis"></div>
+		</div>
+		<script src="lib/d3.min.js"></script>
+		<script src="src/tooltip.js"></script>
+		<script src="src/bubble_chart.js"></script>
+	
+
+</body>
+</html>

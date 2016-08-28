@@ -1,0 +1,315 @@
+.skrollable .skrollable-after{
+	position: relative;
+}
+.skrollable .skrollable-between{
+	position: relative;
+}
+
+.skrollable {
+	/*
+	 * First-level skrollables are positioned relative to window
+	 */
+	position:fixed;
+
+	/*
+	 * Skrollables by default have a z-index of 100 in order to make it easy to position elements in front/back without changing each skrollable
+	 */
+	z-index:-10;
+}
+
+.skrollr-mobile .skrollable {
+	/*
+		May cause issues on Android default browser (see #331 on GitHub).
+	*/
+	position:absolute;
+}
+
+.skrollable .skrollable {
+	/*
+	 * Second-level skrollables are positioned relative their parent skrollable
+	 */
+	position:absolute;
+}
+
+.skrollable .skrollable .skrollable {
+	/*
+	 * Third-level (and below) skrollables are positioned static
+	 */
+	position:static;
+}
+
+
+#where{
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  width: 100px;
+  height: 50px;
+  background: rgba(0,0,0,0.7);
+  color: #FFF;
+  text-align: center;
+  font-size: 40px;
+  z-index: 2;
+}
+/*===============end================*/
+@import "https://fonts.googleapis.com/css?family=Roboto";
+
+@font-face{
+	font-family: 'Cardenio_Modern';
+	src: url('../fonts/Cardenio_Modern.ttf');
+	font-weight: normal;
+}
+
+html, h1,h2,h3, p, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  text-rendering: optimizeLegibility;
+  color: #606060;
+  overflow-x: hidden;
+}
+
+section {
+	width: 100%;
+	height: 1800px;
+	margin: 0 auto;
+	padding: 0 0 0 0;
+}
+
+
+body{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	font-family: 'Cardenio_Modern';
+	margin-bottom: 30px;
+	display: block;
+	font-size: 56px;
+	text-align: center;
+}
+
+.rellax{
+	/*width: 200px;
+	height: 200px;*/
+	
+}
+
+hr{
+	color: #0f50a0;
+}
+.pink{
+	color: #fe5f6a;
+}
+.blue{
+	color: #0f50a0;
+}
+img{
+	width: 100%;
+}
+
+#BG{
+	position:absolute;
+	top:0;
+	z-index: -100;
+	pointer-events: none;
+}
+
+#BG > div{
+	pointer-events: none;
+}
+
+#BG > div>img{
+	pointer-events: none;
+}
+
+/*bird class*/
+.bird_01{
+	position: absolute;
+	width: 250px;
+	top: 70px;
+	right: 10vw;
+}
+
+.bird_02{
+	position: absolute;
+	width: 150px;
+	left: 7vw;
+	top: 30vh;
+}
+
+.bird_03{
+	position: absolute;
+	left: 40vw;
+	width: 170px;
+	top: 90vh;
+}
+
+.bird_04{
+	position: absolute;
+	right: 13vw;
+	width: 250px;
+	bottom: -600px;
+}
+.bird_05{
+	position: absolute;
+	width: 170px;
+	bottom: -600px;
+	left: 14vw;
+}
+.bird_06{
+	position: absolute;
+	width: 200px;
+	bottom: -750px;
+	right: 17vw;
+}
+
+.bird_07{
+	position: absolute;
+	left: 13vw;
+	width: 200px;
+	bottom: -1000px;
+}
+
+
+#infoWrap{
+  position: absolute;
+  width: 450px; 
+  height: auto;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#infoWrap >h1{
+	font-size: 66px;
+	letter-spacing: 0.1em;
+	margin: 0;
+}
+
+.info{
+	margin-top: 30px;
+	line-height: 19px;
+	font-size: 15px;
+}
+#progress {
+	position:fixed;
+	height:2%;
+	background:#00ff00;
+	bottom:0;
+	z-index:2;
+}
+
+#title {
+	z-index:1;
+	width: 1030px;
+	/*height: 100vh;*/
+	padding-top: 3%;
+	text-align:center;
+	
+}
+audio{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 420px;
+	background-color: red;
+}
+
+#interview{
+	/*position: relative;*/
+	z-index: -2;
+	height: 6800px;
+	width: 1030px;
+	/*background-color: gray;*/
+}
+
+/*outter div for animation*/
+.bird_visa{
+	margin-top:7%;
+	z-index: 1;
+	width: 930px;
+	margin: 0 auto;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.float{
+	height: 292px;
+	width: 450px;
+	float: right;
+}
+
+.float >h2{
+	font-family: 'Roboto', sans-serif;
+	margin-right: 30px;
+	display: block;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 32px;
+	/*text-align: justify-all;*/
+
+}
+/*make VISA image shadow with radious*/
+.shadow{
+	border-radius: .7em;
+	box-shadow: 5px 5px 10px 3px #adabab;
+	margin-right: 30px;
+}
+
+.overlay{
+	height: 40px;
+	width: 40px;
+	position: absolute;
+	padding-top: 7%;
+	z-index: 20;
+	top: 20%;
+	left: 45%;
+	visibility: hidden;
+}
+
+
+/*resoureces*/
+#resources{
+	z-index: -2;
+	height: 7500px;
+	width: 1030px;
+	/*background-color: black;*/
+}
+
+.active{
+	visibility: visible;
+}
+.floatL{
+	float: left;
+	height: 430px;
+}
+
+.bird_resource{
+	/*margin-top:3%;*/
+	z-index: 1;
+	width: 930px;
+	margin: 0 auto;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.resources_heading{
+	text-align: left;
+	margin-left: 60px;
+	margin-bottom: 25px;
+}
+
+#dataViz{
+	/*position: fixed;*/
+	/*padding-top: 20px;*/
+	z-index: -10;
+	height: 800px;
+}
+iframe{
+	height: 100%;
+}

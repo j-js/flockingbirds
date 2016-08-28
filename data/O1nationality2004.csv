@@ -1,0 +1,196 @@
+continents,id,O_1
+Africa,Algeria,0
+Africa,Angola,0
+Africa,Benin,2
+Africa,Botswana,1
+Africa,Burkina Faso,1
+Africa,Burundi,0
+Africa,Cameroon,3
+Africa,Cape Verde,0
+Africa,Central African Republic,0
+Africa,Chad,0
+Africa,Comoros,0
+Africa,Congo (Congo Kinshasa),1
+Africa,Congo (Congo Brazzaville),0
+Africa,Cote d'Ivoire ,1
+Africa,Djibouti,0
+Africa,Egypt,12
+Africa,Equatorial Guinea,0
+Africa,Eritrea,0
+Africa,Ethiopia,0
+Africa,Gabon,0
+Africa,Gambia,0
+Africa,Ghana,1
+Africa,Guinea,0
+Africa,Guinea-Bissau,0
+Africa,Kenya,4
+Africa,Lesotho,0
+Africa,Liberia,0
+Africa,Libya,0
+Africa,Madagascar,0
+Africa,Malawi,0
+Africa,Mali,2
+Africa,Mauritania,0
+Africa,Mauritius,0
+Africa,Morocco,1
+Africa,Mozambique,0
+Africa,Namibia,0
+Africa,Niger,0
+Africa,Nigeria,6
+Africa,Rwanda,0
+Africa,Sao Tome and Principe,0
+Africa,Senegal,1
+Africa,Seychelles,0
+Africa,Sierra Leone,1
+Africa,Somalia,0
+Africa,South Africa,64
+Africa,Sudan,2
+Africa,Swaziland,0
+Africa,Tanzania,0
+Africa,Togo,0
+Africa,Tunisia,2
+Africa,Uganda,0
+Africa,Zambia,0
+Africa,Zimbabwe,2
+Asia,Afghanistan,1
+Asia,Bahrain,0
+Asia,Bangladesh,4
+Asia,Bhutan,0
+Asia,Brunei,0
+Asia,Burma,1
+Asia,Cambodia,0
+Asia,China,83
+Asia,China,19
+Asia,Hong Kong,10
+Asia,India,143
+Asia,Indonesia,4
+Asia,Iran,5
+Asia,Iraq,2
+Asia,Israel,115
+Asia,Japan,307
+Asia,Jordan,5
+Asia,North Korea,0
+Asia,South Korea,66
+Asia,Kuwait,2
+Asia,Laos,0
+Asia,Lebanon,23
+Asia,Macau,0
+Asia,Malaysia,7
+Asia,Maldives,0
+Asia,Mongolia,1
+Asia,Nepal,1
+Asia,Oman,0
+Asia,Pakistan,23
+Asia,Palestinian Authority Travel Document,1
+Asia,Philippines,71
+Asia,Qatar,0
+Asia,Saudi Arabia,0
+Asia,Singapore,9
+Asia,Sri Lanka,2
+Asia,Syria,4
+Asia,Thailand,18
+Asia,Timor-Leste,0
+Asia,United Arab Emirates,0
+Asia,Vietnam,1
+Asia,Yemen,0
+Europe,Albania,1
+Europe,Andorra,0
+Europe,Armenia,6
+Europe,Austria,74
+Europe,Azerbaijan,1
+Europe,Belarus,13
+Europe,Belgium,52
+Europe,Bosnia and Herzegovina,4
+Europe,Bulgaria,34
+Europe,Croatia,21
+Europe,Cyprus,14
+Europe,Czech Republic,25
+Europe,Denmark,51
+Europe,Estonia,3
+Europe,Finland,39
+Europe,France,365
+Europe,Georgia,10
+Europe,Germany,381
+Europe,Great Britain and Northern Ireland,1401
+Europe,Greece,53
+Europe,Hungary,37
+Europe,Iceland,18
+Europe,Ireland,89
+Europe,Italy,262
+Europe,Kazakhstan,1
+Europe,Kyrgyzstan,0
+Europe,Latvia,8
+Europe,Liechtenstein,1
+Europe,Lithuania,6
+Europe,Luxembourg,1
+Europe,Macedonia,3
+Europe,Malta,4
+Europe,Moldova,1
+Europe,Monaco,1
+Europe,Netherlands,115
+Europe,Norway,32
+Europe,Poland,43
+Europe,Portugal,17
+Europe,Romania,32
+Europe,Russia,178
+Europe,San Marino,0
+Europe,Serbia and Montenegro,12
+Europe,Slovakia,14
+Europe,Slovenia,9
+Europe,Spain,138
+Europe,Sweden,102
+Europe,Switzerland,130
+Europe,Tajikistan,0
+Europe,Turkey,58
+Europe,Turkmenistan,0
+Europe,Ukraine,26
+Europe,Uzbekistan,1
+Europe,Vatican City,0
+NorthAmerica,Antigua and Barbuda,0
+NorthAmerica,Bahamas,1
+NorthAmerica,Barbados,2
+NorthAmerica,Belize,2
+NorthAmerica,Canada,14
+NorthAmerica,Costa Rica,7
+NorthAmerica,Cuba,3
+NorthAmerica,Dominica,1
+NorthAmerica,Dominican Republic,13
+NorthAmerica,El Salvador,2
+NorthAmerica,Grenada,0
+NorthAmerica,Guatemala,6
+NorthAmerica,Haiti,4
+NorthAmerica,Honduras,2
+NorthAmerica,Jamaica,44
+NorthAmerica,Mexico,321
+NorthAmerica,Nicaragua,1
+NorthAmerica,Panama,9
+NorthAmerica,Saint Kitts and Nevis,0
+NorthAmerica,Saint Lucia,1
+NorthAmerica,Saint Vincent and the Grenadines,0
+NorthAmerica,Trinidad and Tobago,5
+Oceania,Australia,310
+Oceania,Fiji,0
+Oceania,Kiribati,0
+Oceania,Marshall Islands,0
+Oceania,Micronesia,0
+Oceania,Nauru,0
+Oceania,New Zealand,67
+Oceania,Palau,0
+Oceania,Papua New Guinea,0
+Oceania,Samoa,0
+Oceania,Solomon Islands,0
+Oceania,Tonga,1
+Oceania,Tuvalu,0
+Oceania,Vanuatu,0
+SouthAmerica,Argentina,151
+SouthAmerica,Bolivia,3
+SouthAmerica,Brazil,246
+SouthAmerica,Chile,37
+SouthAmerica,Colombia,74
+SouthAmerica,Ecuador,9
+SouthAmerica,Guyana,1
+SouthAmerica,Paraguay,4
+SouthAmerica,Peru,35
+SouthAmerica,Suriname,0
+SouthAmerica,Uruguay,12
+SouthAmerica,Venezuela,124

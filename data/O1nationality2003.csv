@@ -1,0 +1,196 @@
+continents,id,O_1
+Africa,Algeria,2
+Africa,Angola,0
+Africa,Benin,0
+Africa,Botswana,0
+Africa,Burkina Faso,0
+Africa,Burundi,0
+Africa,Cameroon,2
+Africa,Cape Verde,0
+Africa,Central African Republic,0
+Africa,Chad,0
+Africa,Comoros,0
+Africa,Congo (Congo Kinshasa),1
+Africa,Congo (Congo Brazzaville),0
+Africa,Cote d'Ivoire ,1
+Africa,Djibouti,0
+Africa,Egypt,24
+Africa,Equatorial Guinea,0
+Africa,Eritrea,0
+Africa,Ethiopia,0
+Africa,Gabon,0
+Africa,Gambia,1
+Africa,Ghana,1
+Africa,Guinea,1
+Africa,Guinea-Bissau,0
+Africa,Kenya,3
+Africa,Lesotho,0
+Africa,Liberia,0
+Africa,Libya,0
+Africa,Madagascar,0
+Africa,Malawi,0
+Africa,Mali,0
+Africa,Mauritania,0
+Africa,Mauritius,0
+Africa,Morocco,2
+Africa,Mozambique,0
+Africa,Namibia,0
+Africa,Niger,0
+Africa,Nigeria,9
+Africa,Rwanda,0
+Africa,Sao Tome and Principe,0
+Africa,Senegal,4
+Africa,Seychelles,0
+Africa,Sierra Leone,0
+Africa,Somalia,0
+Africa,South Africa,45
+Africa,Sudan,0
+Africa,Swaziland,0
+Africa,Tanzania,1
+Africa,Togo,0
+Africa,Tunisia,2
+Africa,Uganda,2
+Africa,Zambia,2
+Africa,Zimbabwe,2
+Asia,Afghanistan,0
+Asia,Bahrain,1
+Asia,Bangladesh,4
+Asia,Bhutan,0
+Asia,Brunei,0
+Asia,Burma,1
+Asia,Cambodia,0
+Asia,China,114
+Asia,China,35
+Asia,Hong Kong,14
+Asia,India,166
+Asia,Indonesia,5
+Asia,Iran,6
+Asia,Iraq,0
+Asia,Israel,107
+Asia,Japan,237
+Asia,Jordan,10
+Asia,North Korea,0
+Asia,South Korea,81
+Asia,Kuwait,1
+Asia,Laos,0
+Asia,Lebanon,11
+Asia,Macau,0
+Asia,Malaysia,8
+Asia,Maldives,0
+Asia,Mongolia,0
+Asia,Nepal,3
+Asia,Oman,1
+Asia,Pakistan,33
+Asia,Palestinian Authority Travel Document,0
+Asia,Philippines,66
+Asia,Qatar,0
+Asia,Saudi Arabia,3
+Asia,Singapore,11
+Asia,Sri Lanka,8
+Asia,Syria,5
+Asia,Thailand,12
+Asia,Timor-Leste,0
+Asia,United Arab Emirates,0
+Asia,Vietnam,0
+Asia,Yemen,1
+Europe,Albania,2
+Europe,Andorra,0
+Europe,Armenia,8
+Europe,Austria,72
+Europe,Azerbaijan,1
+Europe,Belarus,11
+Europe,Belgium,40
+Europe,Bosnia and Herzegovina,2
+Europe,Bulgaria,21
+Europe,Croatia,18
+Europe,Cyprus,10
+Europe,Czech Republic,28
+Europe,Denmark,58
+Europe,Estonia,4
+Europe,Finland,37
+Europe,France,356
+Europe,Georgia,10
+Europe,Germany,383
+Europe,Great Britain and Northern Ireland,1373
+Europe,Greece,56
+Europe,Hungary,29
+Europe,Iceland,22
+Europe,Ireland,94
+Europe,Italy,248
+Europe,Kazakhstan,1
+Europe,Kyrgyzstan,0
+Europe,Latvia,8
+Europe,Liechtenstein,0
+Europe,Lithuania,10
+Europe,Luxembourg,0
+Europe,Macedonia,4
+Europe,Malta,1
+Europe,Moldova,3
+Europe,Monaco,0
+Europe,Netherlands,96
+Europe,Norway,35
+Europe,Poland,33
+Europe,Portugal,19
+Europe,Romania,30
+Europe,Russia,139
+Europe,San Marino,0
+Europe,Serbia and Montenegro,17
+Europe,Slovakia,9
+Europe,Slovenia,12
+Europe,Spain,130
+Europe,Sweden,86
+Europe,Switzerland,71
+Europe,Tajikistan,0
+Europe,Turkey,62
+Europe,Turkmenistan,0
+Europe,Ukraine,14
+Europe,Uzbekistan,3
+Europe,Vatican City,1
+NorthAmerica,Antigua and Barbuda,1
+NorthAmerica,Bahamas,2
+NorthAmerica,Barbados,1
+NorthAmerica,Belize,3
+NorthAmerica,Canada,14
+NorthAmerica,Costa Rica,6
+NorthAmerica,Cuba,4
+NorthAmerica,Dominica,1
+NorthAmerica,Dominican Republic,9
+NorthAmerica,El Salvador,2
+NorthAmerica,Grenada,0
+NorthAmerica,Guatemala,5
+NorthAmerica,Haiti,1
+NorthAmerica,Honduras,1
+NorthAmerica,Jamaica,26
+NorthAmerica,Mexico,279
+NorthAmerica,Nicaragua,2
+NorthAmerica,Panama,10
+NorthAmerica,Saint Kitts and Nevis,0
+NorthAmerica,Saint Lucia,0
+NorthAmerica,Saint Vincent and the Grenadines,0
+NorthAmerica,Trinidad and Tobago,10
+Oceania,Australia,285
+Oceania,Fiji,0
+Oceania,Kiribati,0
+Oceania,Marshall Islands,0
+Oceania,Micronesia,0
+Oceania,Nauru,0
+Oceania,New Zealand,65
+Oceania,Palau,0
+Oceania,Papua New Guinea,0
+Oceania,Samoa,0
+Oceania,Solomon Islands,0
+Oceania,Tonga,0
+Oceania,Tuvalu,0
+Oceania,Vanuatu,0
+SouthAmerica,Argentina,168
+SouthAmerica,Bolivia,5
+SouthAmerica,Brazil,258
+SouthAmerica,Chile,31
+SouthAmerica,Colombia,64
+SouthAmerica,Ecuador,8
+SouthAmerica,Guyana,1
+SouthAmerica,Paraguay,1
+SouthAmerica,Peru,28
+SouthAmerica,Suriname,0
+SouthAmerica,Uruguay,15
+SouthAmerica,Venezuela,99

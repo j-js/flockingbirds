@@ -1,0 +1,196 @@
+continents,id,O_1
+Africa,Algeria,2
+Africa,Angola,0
+Africa,Benin,0
+Africa,Botswana,0
+Africa,Burkina Faso,1
+Africa,Burundi,0
+Africa,Cameroon,3
+Africa,Cape Verde,0
+Africa,Central African Republic,0
+Africa,Chad,0
+Africa,Comoros,0
+Africa,Congo (Congo Kinshasa),2
+Africa,Congo (Congo Brazzaville),1
+Africa,Cote d'Ivoire ,1
+Africa,Djibouti,0
+Africa,Egypt,26
+Africa,Equatorial Guinea,0
+Africa,Eritrea,0
+Africa,Ethiopia,0
+Africa,Gabon,0
+Africa,Gambia,1
+Africa,Ghana,7
+Africa,Guinea,0
+Africa,Guinea-Bissau,0
+Africa,Kenya,4
+Africa,Lesotho,0
+Africa,Liberia,1
+Africa,Libya,2
+Africa,Madagascar,2
+Africa,Malawi,1
+Africa,Mali,2
+Africa,Mauritania,2
+Africa,Mauritius,0
+Africa,Morocco,7
+Africa,Mozambique,0
+Africa,Namibia,0
+Africa,Niger,0
+Africa,Nigeria,11
+Africa,Rwanda,0
+Africa,Sao Tome and Principe,0
+Africa,Senegal,5
+Africa,Seychelles,0
+Africa,Sierra Leone,0
+Africa,Somalia,1
+Africa,South Africa,51
+Africa,Sudan,0
+Africa,Swaziland,1
+Africa,Tanzania,0
+Africa,Togo,1
+Africa,Tunisia,0
+Africa,Uganda,0
+Africa,Zambia,0
+Africa,Zimbabwe,0
+Asia,Afghanistan,0
+Asia,Bahrain,0
+Asia,Bangladesh,5
+Asia,Bhutan,0
+Asia,Brunei,0
+Asia,Burma,3
+Asia,Cambodia,0
+Asia,China,196
+Asia,China,21
+Asia,Hong Kong,10
+Asia,India,264
+Asia,Indonesia,1
+Asia,Iran,14
+Asia,Iraq,7
+Asia,Israel,120
+Asia,Japan,222
+Asia,Jordan,11
+Asia,North Korea,0
+Asia,South Korea,78
+Asia,Kuwait,1
+Asia,Laos,0
+Asia,Lebanon,36
+Asia,Macau,0
+Asia,Malaysia,7
+Asia,Maldives,0
+Asia,Mongolia,1
+Asia,Nepal,2
+Asia,Oman,1
+Asia,Pakistan,72
+Asia,Palestinian Authority Travel Document,0
+Asia,Philippines,95
+Asia,Qatar,0
+Asia,Saudi Arabia,4
+Asia,Singapore,18
+Asia,Sri Lanka,6
+Asia,Syria,24
+Asia,Thailand,17
+Asia,Timor-Leste,0
+Asia,United Arab Emirates,0
+Asia,Vietnam,1
+Asia,Yemen,0
+Europe,Albania,5
+Europe,Andorra,0
+Europe,Armenia,11
+Europe,Austria,93
+Europe,Azerbaijan,0
+Europe,Belarus,11
+Europe,Belgium,42
+Europe,Bosnia and Herzegovina,2
+Europe,Bulgaria,35
+Europe,Croatia,18
+Europe,Cyprus,6
+Europe,Czech Republic,39
+Europe,Denmark,60
+Europe,Estonia,4
+Europe,Finland,35
+Europe,France,356
+Europe,Georgia,10
+Europe,Germany,422
+Europe,Great Britain and Northern Ireland,1390
+Europe,Greece,39
+Europe,Hungary,31
+Europe,Iceland,15
+Europe,Ireland,101
+Europe,Italy,253
+Europe,Kazakhstan,6
+Europe,Kyrgyzstan,0
+Europe,Latvia,5
+Europe,Liechtenstein,0
+Europe,Lithuania,7
+Europe,Luxembourg,1
+Europe,Macedonia,4
+Europe,Malta,4
+Europe,Moldova,4
+Europe,Monaco,1
+Europe,Netherlands,106
+Europe,Norway,41
+Europe,Poland,47
+Europe,Portugal,18
+Europe,Romania,32
+Europe,Russia,220
+Europe,San Marino,0
+Europe,Serbia and Montenegro,19
+Europe,Slovakia,13
+Europe,Slovenia,9
+Europe,Spain,131
+Europe,Sweden,96
+Europe,Switzerland,84
+Europe,Tajikistan,0
+Europe,Turkey,46
+Europe,Turkmenistan,0
+Europe,Ukraine,32
+Europe,Uzbekistan,3
+Europe,Vatican City,0
+NorthAmerica,Antigua and Barbuda,0
+NorthAmerica,Bahamas,1
+NorthAmerica,Barbados,3
+NorthAmerica,Belize,1
+NorthAmerica,Canada,15
+NorthAmerica,Costa Rica,5
+NorthAmerica,Cuba,4
+NorthAmerica,Dominica,0
+NorthAmerica,Dominican Republic,8
+NorthAmerica,El Salvador,3
+NorthAmerica,Grenada,0
+NorthAmerica,Guatemala,7
+NorthAmerica,Haiti,1
+NorthAmerica,Honduras,1
+NorthAmerica,Jamaica,17
+NorthAmerica,Mexico,236
+NorthAmerica,Nicaragua,3
+NorthAmerica,Panama,7
+NorthAmerica,Saint Kitts and Nevis,0
+NorthAmerica,Saint Lucia,0
+NorthAmerica,Saint Vincent and the Grenadines,0
+NorthAmerica,Trinidad and Tobago,3
+Oceania,Australia,288
+Oceania,Fiji,1
+Oceania,Kiribati,0
+Oceania,Marshall Islands,0
+Oceania,Micronesia,0
+Oceania,Nauru,0
+Oceania,New Zealand,72
+Oceania,Palau,0
+Oceania,Papua New Guinea,0
+Oceania,Samoa,0
+Oceania,Solomon Islands,0
+Oceania,Tonga,1
+Oceania,Tuvalu,0
+Oceania,Vanuatu,0
+SouthAmerica,Argentina,129
+SouthAmerica,Bolivia,4
+SouthAmerica,Brazil,276
+SouthAmerica,Chile,39
+SouthAmerica,Colombia,92
+SouthAmerica,Ecuador,11
+SouthAmerica,Guyana,0
+SouthAmerica,Paraguay,2
+SouthAmerica,Peru,24
+SouthAmerica,Suriname,0
+SouthAmerica,Uruguay,19
+SouthAmerica,Venezuela,110

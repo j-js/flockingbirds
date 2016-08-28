@@ -1,0 +1,196 @@
+continents,id,O_1
+Africa,Algeria,1
+Africa,Angola,0
+Africa,Benin,1
+Africa,Botswana,2
+Africa,Burkina Faso,1
+Africa,Burundi,0
+Africa,Cameroon,6
+Africa,Cape Verde,0
+Africa,Central African Republic,0
+Africa,Chad,0
+Africa,Comoros,0
+Africa,Congo (Congo Kinshasa),1
+Africa,Congo (Congo Brazzaville),0
+Africa,Cote d'Ivoire ,1
+Africa,Djibouti,0
+Africa,Egypt,14
+Africa,Equatorial Guinea,0
+Africa,Eritrea,0
+Africa,Ethiopia,0
+Africa,Gabon,0
+Africa,Gambia,1
+Africa,Ghana,6
+Africa,Guinea,1
+Africa,Guinea-Bissau,0
+Africa,Kenya,4
+Africa,Lesotho,0
+Africa,Liberia,1
+Africa,Libya,0
+Africa,Madagascar,0
+Africa,Malawi,0
+Africa,Mali,2
+Africa,Mauritania,1
+Africa,Mauritius,1
+Africa,Morocco,3
+Africa,Mozambique,0
+Africa,Namibia,0
+Africa,Niger,0
+Africa,Nigeria,10
+Africa,Rwanda,0
+Africa,Sao Tome and Principe,0
+Africa,Senegal,2
+Africa,Seychelles,0
+Africa,Sierra Leone,0
+Africa,Somalia,4
+Africa,South Africa,51
+Africa,Sudan,0
+Africa,Swaziland,0
+Africa,Tanzania,5
+Africa,Togo,0
+Africa,Tunisia,2
+Africa,Uganda,0
+Africa,Zambia,2
+Africa,Zimbabwe,3
+Asia,Afghanistan,0
+Asia,Bahrain,1
+Asia,Bangladesh,5
+Asia,Bhutan,0
+Asia,Brunei,0
+Asia,Burma,1
+Asia,Cambodia,0
+Asia,China,156
+Asia,China,19
+Asia,Hong Kong,13
+Asia,India,180
+Asia,Indonesia,8
+Asia,Iran,9
+Asia,Iraq,2
+Asia,Israel,104
+Asia,Japan,193
+Asia,Jordan,10
+Asia,North Korea,0
+Asia,South Korea,50
+Asia,Kuwait,0
+Asia,Laos,0
+Asia,Lebanon,9
+Asia,Macau,0
+Asia,Malaysia,9
+Asia,Maldives,0
+Asia,Mongolia,1
+Asia,Nepal,5
+Asia,Oman,0
+Asia,Pakistan,45
+Asia,Palestinian Authority Travel Document,0
+Asia,Philippines,94
+Asia,Qatar,0
+Asia,Saudi Arabia,3
+Asia,Singapore,13
+Asia,Sri Lanka,0
+Asia,Syria,12
+Asia,Thailand,16
+Asia,Timor-Leste,0
+Asia,United Arab Emirates,1
+Asia,Vietnam,0
+Asia,Yemen,0
+Europe,Albania,4
+Europe,Andorra,0
+Europe,Armenia,10
+Europe,Austria,86
+Europe,Azerbaijan,1
+Europe,Belarus,15
+Europe,Belgium,45
+Europe,Bosnia and Herzegovina,2
+Europe,Bulgaria,37
+Europe,Croatia,18
+Europe,Cyprus,10
+Europe,Czech Republic,35
+Europe,Denmark,52
+Europe,Estonia,6
+Europe,Finland,36
+Europe,France,289
+Europe,Georgia,10
+Europe,Germany,361
+Europe,Great Britain and Northern Ireland,1271
+Europe,Greece,37
+Europe,Hungary,35
+Europe,Iceland,25
+Europe,Ireland,95
+Europe,Italy,264
+Europe,Kazakhstan,2
+Europe,Kyrgyzstan,0
+Europe,Latvia,7
+Europe,Liechtenstein,1
+Europe,Lithuania,6
+Europe,Luxembourg,2
+Europe,Macedonia,3
+Europe,Malta,5
+Europe,Moldova,2
+Europe,Monaco,0
+Europe,Netherlands,110
+Europe,Norway,32
+Europe,Poland,39
+Europe,Portugal,14
+Europe,Romania,22
+Europe,Russia,153
+Europe,San Marino,0
+Europe,Serbia and Montenegro,14
+Europe,Slovakia,7
+Europe,Slovenia,11
+Europe,Spain,131
+Europe,Sweden,95
+Europe,Switzerland,62
+Europe,Tajikistan,0
+Europe,Turkey,56
+Europe,Turkmenistan,0
+Europe,Ukraine,30
+Europe,Uzbekistan,3
+Europe,Vatican City,0
+NorthAmerica,Antigua and Barbuda,0
+NorthAmerica,Bahamas,3
+NorthAmerica,Barbados,0
+NorthAmerica,Belize,1
+NorthAmerica,Canada,12
+NorthAmerica,Costa Rica,7
+NorthAmerica,Cuba,13
+NorthAmerica,Dominica,2
+NorthAmerica,Dominican Republic,5
+NorthAmerica,El Salvador,2
+NorthAmerica,Grenada,0
+NorthAmerica,Guatemala,3
+NorthAmerica,Haiti,1
+NorthAmerica,Honduras,1
+NorthAmerica,Jamaica,18
+NorthAmerica,Mexico,219
+NorthAmerica,Nicaragua,2
+NorthAmerica,Panama,9
+NorthAmerica,Saint Kitts and Nevis,0
+NorthAmerica,Saint Lucia,0
+NorthAmerica,Saint Vincent and the Grenadines,1
+NorthAmerica,Trinidad and Tobago,5
+Oceania,Australia,289
+Oceania,Fiji,1
+Oceania,Kiribati,0
+Oceania,Marshall Islands,0
+Oceania,Micronesia,0
+Oceania,Nauru,0
+Oceania,New Zealand,65
+Oceania,Palau,0
+Oceania,Papua New Guinea,0
+Oceania,Samoa,0
+Oceania,Solomon Islands,0
+Oceania,Tonga,0
+Oceania,Tuvalu,0
+Oceania,Vanuatu,0
+SouthAmerica,Argentina,182
+SouthAmerica,Bolivia,6
+SouthAmerica,Brazil,286
+SouthAmerica,Chile,27
+SouthAmerica,Colombia,73
+SouthAmerica,Ecuador,6
+SouthAmerica,Guyana,1
+SouthAmerica,Paraguay,4
+SouthAmerica,Peru,33
+SouthAmerica,Suriname,1
+SouthAmerica,Uruguay,14
+SouthAmerica,Venezuela,97

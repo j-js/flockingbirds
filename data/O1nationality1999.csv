@@ -1,0 +1,194 @@
+continents,id,O_1
+Africa,Algeria,2
+Africa,Angola,1
+Africa,Benin,1
+Africa,Botswana,1
+Africa,Burkina Faso,1
+Africa,Burundi,0
+Africa,Cameroon,1
+Africa,Cape Verde,0
+Africa,Central African Republic,0
+Africa,Chad,0
+Africa,Comoros,0
+Africa,Congo (Congo Kinshasa),0
+Africa,Congo (Congo Brazzaville),1
+Africa,Cote d'Ivoire ,0
+Africa,Djibouti,0
+Africa,Egypt,11
+Africa,Equatorial Guinea,0
+Africa,Eritrea,0
+Africa,Ethiopia,0
+Africa,Gabon,0
+Africa,Gambia,0
+Africa,Ghana,8
+Africa,Guinea,0
+Africa,Guinea-Bissau,0
+Africa,Kenya,5
+Africa,Lesotho,0
+Africa,Liberia,0
+Africa,Libya,0
+Africa,Madagascar,0
+Africa,Malawi,0
+Africa,Mali,2
+Africa,Mauritania,1
+Africa,Mauritius,1
+Africa,Morocco,4
+Africa,Mozambique,0
+Africa,Namibia,0
+Africa,Niger,0
+Africa,Nigeria,12
+Africa,Rwanda,0
+Africa,Sao Tome and Principe,0
+Africa,Senegal,4
+Africa,Seychelles,0
+Africa,Sierra Leone,0
+Africa,Somalia,3
+Africa,South Africa,30
+Africa,Sudan,0
+Africa,Swaziland,0
+Africa,Tanzania,0
+Africa,Togo,0
+Africa,Tunisia,5
+Africa,Uganda,1
+Africa,Zambia,0
+Africa,Zimbabwe,2
+Asia,Afghanistan,0
+Asia,Bahrain,0
+Asia,Bangladesh,1
+Asia,Bhutan,0
+Asia,Brunei,0
+Asia,Burma,0
+Asia,Cambodia,0
+Asia,China,136
+Asia,China,18
+Asia,Hong Kong,3
+Asia,India,176
+Asia,Indonesia,5
+Asia,Iran,10
+Asia,Iraq,7
+Asia,Israel,77
+Asia,Japan,136
+Asia,Jordan,9
+Asia,North Korea,0
+Asia,South Korea,41
+Asia,Kuwait,0
+Asia,Laos,0
+Asia,Lebanon,22
+Asia,Malaysia,8
+Asia,Maldives,0
+Asia,Mongolia,4
+Asia,Nepal,8
+Asia,Oman,0
+Asia,Pakistan,48
+Asia,Palestinian Authority Travel Document,1
+Asia,Philippines,38
+Asia,Qatar,0
+Asia,Saudi Arabia,7
+Asia,Singapore,8
+Asia,Sri Lanka,2
+Asia,Syria,12
+Asia,Thailand,5
+Asia,United Arab Emirates,0
+Asia,Vietnam,1
+Asia,Yemen,0
+Europe,Albania,2
+Europe,Andorra,0
+Europe,Armenia,8
+Europe,Austria,61
+Europe,Azerbaijan,0
+Europe,Belarus,6
+Europe,Belgium,41
+Europe,Bosnia and Herzegovina,0
+Europe,Bulgaria,27
+Europe,Croatia,14
+Europe,Cyprus,10
+Europe,Czech Republic,22
+Europe,Denmark,63
+Europe,Estonia,2
+Europe,Finland,34
+Europe,France,304
+Europe,Georgia,5
+Europe,Germany,301
+Europe,Great Britain and Northern Ireland,1192
+Europe,Greece,45
+Europe,Hungary,31
+Europe,Iceland,7
+Europe,Ireland,67
+Europe,Italy,235
+Europe,Kazakhstan,2
+Europe,Kyrgyzstan,0
+Europe,Latvia,3
+Europe,Liechtenstein,0
+Europe,Lithuania,7
+Europe,Luxembourg,1
+Europe,Macedonia,2
+Europe,Malta,2
+Europe,Moldova,1
+Europe,Monaco,0
+Europe,Netherlands,98
+Europe,Norway,16
+Europe,Poland,39
+Europe,Portugal,10
+Europe,Romania,23
+Europe,Russia,158
+Europe,San Marino,0
+Europe,Serbia and Montenegro,5
+Europe,Slovakia,7
+Europe,Slovenia,7
+Europe,Spain,112
+Europe,Sweden,86
+Europe,Switzerland,61
+Europe,Tajikistan,0
+Europe,Turkey,37
+Europe,Turkmenistan,0
+Europe,Ukraine,22
+Europe,Uzbekistan,1
+Europe,Vatican City,0
+NorthAmerica,Antigua and Barbuda,0
+NorthAmerica,Bahamas,2
+NorthAmerica,Barbados,1
+NorthAmerica,Belize,1
+NorthAmerica,Canada,13
+NorthAmerica,Costa Rica,2
+NorthAmerica,Cuba,13
+NorthAmerica,Dominica,2
+NorthAmerica,Dominican Republic,8
+NorthAmerica,El Salvador,1
+NorthAmerica,Grenada,0
+NorthAmerica,Guatemala,6
+NorthAmerica,Haiti,1
+NorthAmerica,Honduras,1
+NorthAmerica,Jamaica,18
+NorthAmerica,Mexico,170
+NorthAmerica,Nicaragua,0
+NorthAmerica,Panama,7
+NorthAmerica,Saint Kitts and Nevis,0
+NorthAmerica,Saint Lucia,0
+NorthAmerica,Saint Vincent and the Grenadines,0
+NorthAmerica,Trinidad and Tobago,4
+Oceania,Australia,257
+Oceania,Fiji,0
+Oceania,Kiribati,0
+Oceania,Marshall Islands,0
+Oceania,Micronesia,0
+Oceania,Nauru,0
+Oceania,New Zealand,46
+Oceania,Palau,0
+Oceania,Papua New Guinea,0
+Oceania,Samoa,0
+Oceania,Solomon Islands,0
+Oceania,Tonga,0
+Oceania,Tuvalu,0
+Oceania,Vanuatu,0
+SouthAmerica,Argentina,77
+SouthAmerica,Bolivia,3
+SouthAmerica,Brazil,178
+SouthAmerica,Chile,24
+SouthAmerica,Colombia,29
+SouthAmerica,Ecuador,1
+SouthAmerica,Guyana,0
+SouthAmerica,Paraguay,3
+SouthAmerica,Peru,22
+SouthAmerica,Suriname,0
+SouthAmerica,Uruguay,6
+SouthAmerica,Venezuela,53
