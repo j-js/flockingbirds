@@ -64,8 +64,8 @@ html, h1,h2,h3, p, body {
   margin: 0;
   padding: 0;
   font-family: 'Roboto', sans-serif;
-  text-rendering: optimizeLegibility;
-  color: #606060;
+/*  text-rendering: optimizeLegibility;
+*/  color: #606060;
   overflow-x: hidden;
 }
 
@@ -88,6 +88,7 @@ h1{
 	margin-bottom: 30px;
 	display: block;
 	font-size: 56px;
+	font-weight: 400;
 	text-align: center;
 }
 
