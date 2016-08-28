@@ -249,9 +249,8 @@ audio{
 	margin-right: 30px;
 	display: block;
 	font-style: italic;
-	font-weight: bold;
-	font-size: 32px;
-	/*text-align: justify-all;*/
+	font-size: 40px;
+    	text-align: left;
 
 }
 /*make VISA image shadow with radious*/
