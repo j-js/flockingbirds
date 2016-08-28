@@ -4,7 +4,7 @@ function bubbleChart() {
   
   // Constants for sizing
   var width = 940;
-  var height = 700;
+  var height = 680;
 
   // tooltip for mouseover functionality
   var tooltip = floatingTooltip('visa_tooltip', 140);

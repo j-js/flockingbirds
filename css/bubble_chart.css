@@ -21,8 +21,12 @@ html, h1,h2,h3, p, body {
   text-align: center;
   text-transform: uppercase;
   font-weight: 400;
+ 
 }
 
+body{
+  max-height: 800px;
+}
 
 h1{
   font-family: 'Cardenio_Modern';
@@ -30,9 +34,13 @@ h1{
   font-size: 56px;
   text-align: center;
   font-weight: 400;
+   margin-top: 15px;
   /*text-transform: uppercase;*/
 }
 
+#years{
+  margin-top: -30px;
+}
 .continents{
   font-size: 20px;
   position: absolute;
@@ -41,7 +49,8 @@ h1{
 
 .container {
   max-width: 1000px;
-  margin: auto;
+  margin: 0 auto;
+  height: 100%;
 }
 
 .button {

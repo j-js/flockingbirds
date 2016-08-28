@@ -41,7 +41,7 @@ function onPlaying(e) {
 
     
 function stopAudio(scroll_pos) {
-	console.log(scroll_pos);
+	// console.log(scroll_pos);
 
   	if(playing==true){
   		audioList[+audioId].pause();
