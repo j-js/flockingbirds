@@ -16,7 +16,7 @@ var last_known_scroll_position = 0;
 var ticking = false;
 
 
-var scroll= document.getElementsById("scroll");
+var scroll= document.getElementById("scroll");
 
 for (var i = 0; i < audioList.length; i++) {
     audioList[i].addEventListener("playing", onPlaying, false);
