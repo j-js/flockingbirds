@@ -15,6 +15,9 @@ var audioList = document.getElementsByTagName("audio");
 var last_known_scroll_position = 0;
 var ticking = false;
 
+
+var scroll= document.getElementsById("scroll");
+
 for (var i = 0; i < audioList.length; i++) {
     audioList[i].addEventListener("playing", onPlaying, false);
     audioList[i].addEventListener("playing", onPlaying, false);
@@ -41,13 +44,22 @@ function onPlaying(e) {
 
     
 function stopAudio(scroll_pos) {
-	// console.log(scroll_pos);
+
+	console.log(scroll_pos);
+
+  if(scroll_pos>500){
+    scroll.style.visibility = "hidden";
+  }else{
+    scroll.style.visibility = "visible";
+  }
+
+
 
   	if(playing==true){
   		audioList[+audioId].pause();
   		window.setTimeout(audioList[+audioId].volume-=0.1, 2000);
   		playing==false;
-  		console.log(audioList[+audioId].id + "paused");
+  		// console.log(audioList[+audioId].id + "paused");
   		window.setTimeout(resetAudio(audioId), 2000);
   	}
 }
@@ -56,10 +68,11 @@ function stopAudio(scroll_pos) {
 function resetAudio(id){
 	audioList[+id].pause();
 	audioList[+audioId].volume = 1;
-  	audioList[+id].currentTime = 0;
+  audioList[+id].currentTime = 0;
 }
 
 window.addEventListener('scroll', function(e) {
   last_known_scroll_position = window.scrollY;
+
   stopAudio(last_known_scroll_position);
 });

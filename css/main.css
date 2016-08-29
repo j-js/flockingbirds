@@ -50,7 +50,7 @@
   text-align: center;
   font-size: 40px;
   z-index: 2;
-  display: none;
+  /*display: none;*/
 }
 /*===============end================*/
 @import "https://fonts.googleapis.com/css?family=Roboto";
@@ -111,6 +111,23 @@ hr{
 img{
 	width: 100%;
 }
+@keyframes fadeIn { 
+  from { opacity: 0; } 
+}
+
+#scroll{
+ position: absolute;
+  width: 80px; 
+  height: 80px;
+  bottom: 30px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: fadeIn 1.7s infinite alternate;
+  font-size: 9px;
+  text-align: center;
+}
+
+
 
 #bg1, #bg2, #bg3{
 	z-index:-5000;
