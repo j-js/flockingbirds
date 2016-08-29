@@ -313,6 +313,12 @@ audio{
 	/*padding-top: 40px;*/
 }
 
+.floatR{
+	height: 292px;
+	width: 400px;
+	float: right;
+}
+
 .bird_resource{
 	/*margin-top:3%;*/
 	z-index: 1;
@@ -326,20 +332,30 @@ audio{
 
 .resources_heading{
 	text-align: left;
-	margin-left: 60px;
 	margin-bottom: 25px;
 }
-.imageSlide{
-	height: 140px;
-	text-align: right;
+
+.text{
+	width: 400px;
+	height: 430px;
 	position: absolute;
 	right: 0;
-	bottom: 0;
+	top: 0;
+	/*background-color: yellow;*/
 }
+
+.imageSlide{
+	height: 120px;
+	text-align: right;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+/*	background-color: gold;
+*/}
 .imageSlide a img{
-	width: 120px;
+	width: 92px;
 	height: 100%;
-	margin: 0 4px;
+	margin-right: 5px;
 }
 #dataViz{
 	/*position: fixed;*/
