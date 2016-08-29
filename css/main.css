@@ -220,10 +220,11 @@ img{
 #progress {
 	position:fixed;
 	margin-top: 30px;
-	height:2%;
-	background:#00ff00;
+	height:10px;
+	background:gold;
 	bottom:0;
 	z-index:2;
+	opacity: .6;
 }
 
 #title {
@@ -239,7 +240,7 @@ audio{
 	bottom: 0;
 	left: 0;
 	width: 420px;
-	background-color: red;
+	/*background-color: gray;*/
 }
 
 #interview{
