@@ -91,7 +91,6 @@ h1, h2{
 	font-size: 56px;
 	font-weight: 400;
 	text-align: center;
-	font-weight: 400;
 }
 
 .rellax{
@@ -114,7 +113,7 @@ img{
 }
 
 #bg1, #bg2, #bg3{
-	z-index:-50;
+	z-index:-5000;
 	top:0;
 	left:0;
 	width:100%;
@@ -175,26 +174,26 @@ img{
 	position: absolute;
 	right: 13vw;
 	width: 250px;
-	bottom: -600px;
+	bottom: -200px;
 }
 .bird_05{
 	position: absolute;
 	width: 170px;
-	bottom: -600px;
+	bottom: -250px;
 	left: 14vw;
 }
 .bird_06{
 	position: absolute;
-	width: 200px;
-	bottom: -750px;
-	right: 17vw;
+	width: 300px;
+	bottom: -700px;
+	right: 20vw;
 }
 
 .bird_07{
 	position: absolute;
-	left: 13vw;
-	width: 200px;
-	bottom: -1000px;
+	left: 17vw;
+	width: 300px;
+	bottom: -900px;
 }
 
 
@@ -232,7 +231,7 @@ img{
 	width: 1030px;
 	/*height: 100vh;*/
 	padding-top: 3%;
-	text-align:center;
+	text-align:left;
 	
 }
 audio{
@@ -269,12 +268,12 @@ audio{
 }
 
 .float >h2{
-	font-family:'Cardenio_Modern';
+	/*font-family:'Roboto';*/
 	margin-right: 30px;
 	display: block;
-	font-style: italic;
-	font-size: 40px;
-    	text-align: left;
+	font-size: 50px;
+    text-align: left;
+    font-weight: 300;
 
 }
 /*make VISA image shadow with radious*/
@@ -333,6 +332,7 @@ audio{
 .resources_heading{
 	text-align: left;
 	margin-bottom: 25px;
+	    font-size: 15px;
 }
 
 .text{
