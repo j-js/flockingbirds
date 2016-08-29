@@ -356,6 +356,7 @@ audio{
 	width: 92px;
 	height: 100%;
 	margin-right: 5px;
+	box-shadow: 3px 3px 4px 0px #adabab;
 }
 #dataViz{
 	/*position: fixed;*/
