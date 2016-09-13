@@ -66,11 +66,7 @@ function bubbleChart() {
     return -Math.pow(d.radius, 2.0)*3.14/25;
   }
 
-  // Here we create a force layout and
-  // configure it to use the charge function
-  // from above. This also sets some contants
-  // to specify how the force layout should behave.
-  // More configuration is done below.
+  // force layout
   var force = d3.layout.force()
     .size([width, height])
     .charge(charge)
@@ -127,22 +123,14 @@ function bubbleChart() {
   }
 
   /*
-   * Main entry point to the bubble chart. This function is returned
-   * by the parent closure. It prepares the rawData for visualization
+   * Main entry creation of bubble chart. 
+   * It prepares the rawData for visualization
    * and adds an svg element to the provided selector and starts the
    * visualization creation process.
-   *
-   * selector is expected to be a DOM element or CSS selector that
-   * points to the parent element of the bubble chart. Inside this
-   * element, the code will add the SVG continer for the visualization.
-   *
-   * rawData is expected to be an array of data objects as provided by
-   * a d3 loading function like d3.csv.
    */
   var chart = function chart(selector, rawData) {
-    // Use the max total_amount in the data as the max in the scale's domain
-    // note we have to ensure the total_amount is a number by converting it
-    // with `+`.
+    // Use the max O_1 amount in the data as the max in the scale's domain
+    // ensuring the O_1 amount is a number by converting it with `+`.
     var maxAmount = d3.max(rawData, function (d) { return +d.O_1; });
     radiusScale.domain([0, maxAmount]);
 
@@ -193,9 +181,6 @@ function bubbleChart() {
 
   /*
    * Sets visualization in "single group mode".
-   * The year labels are hidden and the force layout
-   * tick function is set to move all nodes to the
-   * center of the visualization.
    */
   function groupBubbles() {
     hideContinents();
@@ -209,20 +194,7 @@ function bubbleChart() {
     force.start();
   }
 
-  /*
-   * Helper function for "single group mode".
-   * Returns a function that takes the data for a
-   * single node and adjusts the position values
-   * of that node to move it toward the center of
-   * the visualization.
-   *
-   * Positioning is adjusted by the force layout's
-   * alpha parameter which gets smaller and smaller as
-   * the force layout runs. This makes the impact of
-   * this moving get reduced as each node gets closer to
-   * its destination, and so allows other forces like the
-   * node's charge force to also impact final location.
-   */
+  
   function moveToCenter(alpha) {
     return function (d) {
       d.x = d.x + (center.x - d.x) * damper * alpha;
@@ -231,10 +203,7 @@ function bubbleChart() {
   }
 
   /*
-   * Sets visualization in "split by year mode".
-   * The year labels are shown and the force layout
-   * tick function is set to move nodes to the
-   * continentCenters of their data's year.
+   * Sets visualization in "split by year mode"
    */
   function splitBubbles() {
     showContinents();
@@ -249,18 +218,7 @@ function bubbleChart() {
   }
 
   /*
-   * Helper function for "split by year mode".
-   * Returns a function that takes the data for a
-   * single node and adjusts the position values
-   * of that node to move it the year center for that
-   * node.
-   *
-   * Positioning is adjusted by the force layout's
-   * alpha parameter which gets smaller and smaller as
-   * the force layout runs. This makes the impact of
-   * this moving get reduced as each node gets closer to
-   * its destination, and so allows other forces like the
-   * node's charge force to also impact final location.
+   * Move circles to continents
    */
   function moveToContinents(alpha) {
     return function (d) {
