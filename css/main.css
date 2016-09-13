@@ -255,10 +255,10 @@ img{
 		
 	}
 	audio{
-		position: absolute;
+		/*position: absolute;
 		bottom: 0;
-		left: 0;
-		width: 420px;
+		left: 0;*/
+		width: 100%;
 		/*background-color: gray;*/
 	}
 
@@ -282,13 +282,14 @@ img{
 	}
 
 	.float{
-		width: 50%;
-    	float: right;
+		width: 100%;
+    /* float: right; */
+    margin-bottom: 25px;
 	}
 
 	.float >h2{
 		/*font-family:'Roboto';*/
-		margin-right: 20px;
+		margin-bottom: 20px;
 		display: block;
 		font-size: 20px;
 	    text-align: left;
