@@ -170,48 +170,48 @@ img{
 	/*bird class*/
 	.bird_01{
 		position: absolute;
-		width: 70px;
+		width: 30%;
 		top: 70px;
 		right: 10vw;
 	}
 
 	.bird_02{
 		position: absolute;
-		width: 50px;
+		width: 30%;
 		left: 7vw;
 		top: 30vh;
 	}
 
 	.bird_03{
 		position: absolute;
+		width: 30%;
 		left: 40vw;
-		width: 70px;
 		top: 90vh;
 	}
 
 	.bird_04{
 		position: absolute;
+		width: 40%;
 		right: 13vw;
-		width: 50px;
 		bottom: -200px;
 	}
 	.bird_05{
 		position: absolute;
-		width: 70px;
+		width: 40%;
 		bottom: -250px;
 		left: 14vw;
 	}
 	.bird_06{
 		position: absolute;
-		width: 100px;
+		width: 50%;
 		bottom: -700px;
 		right: 20vw;
 	}
 
 	.bird_07{
 		position: absolute;
+		width: 50%;
 		left: 17vw;
-		width: 100px;
 		bottom: -900px;
 	}
 
