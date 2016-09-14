@@ -259,6 +259,7 @@ img{
 		bottom: 0;
 		left: 0;*/
 		width: 100%;
+
 		/*background-color: gray;*/
 	}
 
@@ -276,13 +277,14 @@ img{
 		z-index: 1;
 		width: 930px;
 		margin: 0 auto;
-		top: 50%;
+		/*top: 50%;
 		left: 50%;
-		transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);*/
 	}
 
 	.float{
 		width: 100%;
+		max-width: 420px;
     /* float: right; */
     margin-bottom: 25px;
 	}
