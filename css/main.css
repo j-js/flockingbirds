@@ -452,8 +452,9 @@ img{
 
 	.info{
 		margin-top: 30px;
-		line-height: 19px;
-		font-size: 15px;
+		line-height: 1.5em;
+	    font-size: 16px;
+		color: #3E3E3E;
 	}
 	#progress {
 		position:fixed;
